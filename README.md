@@ -1,5 +1,7 @@
 # Executive E-Commerce Performance Overview
 
+🔗 **Live Dashboard:** [Executive E-Commerce Performance Overview](https://datastudio.google.com/reporting/60f019bc-6f8c-4a09-94a8-a876dc9fd264)
+
 This repository contains the data model and SQL scripts for the **Executive E-Commerce Performance Overview** dashboard built in **Google Looker Studio** on top of the **Google BigQuery** data warehouse.
 
 The project handles e-commerce data cleaning, transformation, standardization of unassigned product categories to `Others`, creation of a reporting View, and query cost optimization in BigQuery.
